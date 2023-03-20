@@ -1,16 +1,14 @@
 ### Hi there 👋
+<br>
 
-<!--
-**msm9401/msm9401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<div align=center>
+	
+[![Python Badge](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python&logoColor=white)](https://www.python.org/) 
+[![Django Badge](https://img.shields.io/badge/-Django-%23092E20?style=plastic&logo=django)](https://docs.djangoproject.com/en/4.0/) 
+[![DRF Badge](https://img.shields.io/badge/-DRF-%23FF0000?style=plastic&logo=django)](https://www.django-rest-framework.org/) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" />     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" style="width: 54px; height: 54px; margin-right: 28px; margin-bottom: 0px;" /> 
+</div>
