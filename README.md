@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### <p align="center"><a href="https://artiscore.co.kr/"><img src="https://github.com/msm9401/msm9401/assets/70134073/51a7b0cc-638e-4b7c-969e-2b5ebe2768f0" alt="icon" width="35" height="35"/></a> [아티스트 음원 스트리밍 데이터 비교 플랫폼 - "ARTISCORE"](https://artiscore.co.kr/) </p>
+#### <p align="center"><a href="https://artiscore.co.kr/"><img src="https://github.com/msm9401/msm9401/assets/70134073/51a7b0cc-638e-4b7c-969e-2b5ebe2768f0" alt="icon" width="20" height="20"/></a> [아티스트 음원 스트리밍 데이터 비교 플랫폼 - "ARTISCORE"](https://artiscore.co.kr/) </p>
 <br>
 
 ## Skills
